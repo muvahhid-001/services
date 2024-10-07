@@ -112,5 +112,5 @@ button.read-more {
 }
 @font-face {
     font-family: "TTLakesM";
-    src: url("FontStyle/TTLakes-Medium.ttf") format("truetype");
+    src: url("fonts/TTLakes-Medium.ttf") format("truetype");
 }
